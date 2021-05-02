@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/src/test/java/rest/Base/Base1Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/rest/Base/BaseTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/rest/Tests/GetRestTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/rest/Tests/GisExtractableResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/rest/Tests/GisResponseBodyExtractionOptions.java" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
